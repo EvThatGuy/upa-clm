@@ -1,0 +1,12 @@
+/* Sample CSS for Admin Pages */
+.wrap {
+    padding: 20px;
+}
+
+table.widefat {
+    width: 100%;
+}
+
+.button-primary {
+    margin-top: 10px;
+}

@@ -1,0 +1,83 @@
+.wrap {
+    max-width: 95%;
+    margin: 0 auto;
+}
+
+table.widefat {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table.widefat th,
+table.widefat td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+table.widefat th {
+    background-color: #f4f4f4;
+}
+
+table.widefat tr:hover {
+    background-color: #f9f9f9;
+}
+
+.team-logo {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.clm-teams ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.clm-teams li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.clm-games ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.clm-games li {
+    margin-bottom: 10px;
+}
+
+.clm-standings table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.clm-standings th,
+.clm-standings td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.clm-standings th {
+    background-color: #f2f2f2;
+}
+
+.clm-player-stats table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.clm-player-stats th,
+.clm-player-stats td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.clm-player-stats th {
+    background-color: #f2f2f2;
+}
